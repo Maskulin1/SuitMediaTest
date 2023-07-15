@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SuitmediaTask</string>
+
+    <!--  MainActivity Resources String  -->
+    <string name="main_activity_error_message">Masih Kosong</string>
+
+    <!--  MainActivity Layout Resources String  -->
+    <string name="layout_main_name">Name</string>
+    <string name="layout_main_palindrome">Palindrome</string>
+    <string name="layout_main_button_check">Check</string>
+    <string name="layout_main_button_next">Next</string>
+
+    <!--  SecondActivity Layout Resources String  -->
+    <string name="layout_second_welcome">Welcome</string>
+    <string name="layout_second_name">John Doe</string>
+    <string name="layout_second_button">Choose a user</string>
+
+    <!--  List User Layout Resources String  -->
+    <string name="layout_list_user_ivDescription">User Avatar</string>
+</resources>
